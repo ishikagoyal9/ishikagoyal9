@@ -62,14 +62,14 @@ That curiosity led me to build a deepfake forensic analyzer, train satellite ima
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| 🔬 **[Deep Trace](https://github.com/ishikagoyal9/deep-trace)** | Temporal Deepfake Forensic Analyzer — detects exact timestamps of manipulation via blink anomaly, lip-sync mismatch & feature drift. Auto PDF reports with Grad-CAM heatmaps via FastAPI | PyTorch · ResNext50 · Bi-LSTM · FastAPI · OpenCV | **90% Accuracy** |
-| 🛰️ **[Illegal Mining Detection](https://github.com/ishikagoyal9/illegal-mining-detection)** | Satellite imagery pipeline to flag unauthorized mining zones using ResNet-50 Transfer Learning | ResNet-50 · Transfer Learning · Python | **🥈 HackArena 2.0** |
-| 💊 **[Medi Bot](https://github.com/ishikagoyal9/medi-bot)** | AI healthcare chatbot for symptom analysis & preliminary diagnosis — triage-level ML classification, not keyword matching | Python · ML · NLP · Scikit-learn | Healthcare AI |
+| 🔬 **Deep Trace** | Temporal Deepfake Forensic Analyzer — detects exact timestamps of manipulation via blink anomaly, lip-sync mismatch & feature drift. Auto PDF reports with Grad-CAM heatmaps via FastAPI | PyTorch · ResNext50 · Bi-LSTM · FastAPI · OpenCV | **90% Accuracy** |
+| 🛰️ **Illegal Mining Detection** | Satellite imagery pipeline to flag unauthorized mining zones using ResNet-50 Transfer Learning | ResNet-50 · Transfer Learning · Python | **🥈 HackArena 2.0** |
+| 💊 **Medi Bot** | AI healthcare chatbot for symptom analysis & preliminary diagnosis — triage-level ML classification, not keyword matching | Python · ML · NLP · Scikit-learn | Healthcare AI |
 | 🏛️ **AAI Grievance System (AERO-CONNECT)** | Inter-departmental grievance tracking system for Airport Authority of India, IGI Airport — digitized end-to-end workflow | Full Stack · Web Dev | Industry Project |
-| 👁️ **[Face Verification — Siamese Net](https://github.com/ishikagoyal9/face-verification-siamese)** | One-shot face verification using Siamese architecture with contrastive loss & data augmentation for lighting/angle robustness | PyTorch · Siamese Network · Contrastive Loss | ⏳ Coming Soon |
-| ❤️ **[Heart Disease Prediction](https://github.com/ishikagoyal9/heart-disease-prediction)** | End-to-end ML pipeline — EDA → SMOTE → ensemble of Logistic Regression, Random Forest & SVM with ROC-AUC evaluation | Scikit-learn · SVM · SMOTE · ROC-AUC | ⏳ Coming Soon |
-| 🖼️ **[CIFAR-10 CNN Classifier](https://github.com/ishikagoyal9/cifar10-cnn)** | Custom CNN from scratch in PyTorch — studying depth, kernel size, batch norm & dropout effects on generalization | PyTorch · CNN · Batch Normalization | ⏳ Coming Soon |
-| 📊 **[EDA & ML Templates](https://github.com/ishikagoyal9/ml-templates)** | Reusable EDA pipelines — missing value treatment, outlier detection, SMOTE, PCA, feature selection & model evaluation | Pandas · Seaborn · Scikit-learn | ⏳ Coming Soon |
+| 👁️ **Face Verification — Siamese Net** | One-shot face verification using Siamese architecture with contrastive loss & data augmentation for lighting/angle robustness | PyTorch · Siamese Network · Contrastive Loss | ⏳ Coming Soon |
+| ❤️ **Heart Disease Prediction** | End-to-end ML pipeline — EDA → SMOTE → ensemble of Logistic Regression, Random Forest & SVM with ROC-AUC evaluation | Scikit-learn · SVM · SMOTE · ROC-AUC | ⏳ Coming Soon |
+| 🖼️ **CIFAR-10 CNN Classifier** | Custom CNN from scratch in PyTorch — studying depth, kernel size, batch norm & dropout effects on generalization | PyTorch · CNN · Batch Normalization | ⏳ Coming Soon |
+| 📊 **EDA & ML Templates** | Reusable EDA pipelines — missing value treatment, outlier detection, SMOTE, PCA, feature selection & model evaluation | Pandas · Seaborn · Scikit-learn | ⏳ Coming Soon |
 
 ## 🏆 Achievements
 
