@@ -21,7 +21,7 @@ That curiosity led me to build a deepfake forensic analyzer, train satellite ima
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ffc8?style=for-the-badge&logo=vercel&logoColor=black)](https://cheery-cactus-43cef5.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffc8?style=for-the-badge&logo=vercel&logoColor=black)](https://ishikagoyal.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-goyal-59a0a8325)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikagoyal799@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishikagoyal9)
